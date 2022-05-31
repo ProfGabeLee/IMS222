@@ -2,7 +2,7 @@
 if(isset($_POST['email'])) {
 
     // Change this to your email address.
-    $email_to = "leeyh2@miamioh.edu";
+    $email_to = "gabefamily1968@gmail.com";
 
     $email_subject = "Form subission detected";
 
